@@ -4,5 +4,5 @@ git status --porcelain | grep chapters | sed "s#.*files/chapters\(/.*\).*#sftp s
 git status --porcelain | grep additional | sed "s#.*files/additional\(/.*\).*#sftp s18d0439@ftp.s18d0439.alojamientovirtual.com:public_html/elvater.net/morti/files/additional <<< $'put "$pwd"/files/additional\1'#" | sh
 echo GIT SECOND
 git add .
-git commit -m 'Commit generated automatically from $COMPUTER_ID'
+git commit -m $COMPUTER_ID
 git push -u origin master
