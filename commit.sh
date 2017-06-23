@@ -5,3 +5,4 @@ git status --porcelain | grep additional | sed "s#.*files/additional\(/.*\).*#sf
 echo GIT SECOND
 git add .
 git commit -m 'Commit generated automatically from $COMPUTER_ID'
+git push -u origin master
