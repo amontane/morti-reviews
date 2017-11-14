@@ -1,4 +1,4 @@
-Creas un ataque de oportunidad cuando entras en su zona de ataque y *sonido de dados* uf *sonido de dados* te endiña un coletazo que te hace 13 puntos de daño.
+Creas un ataque de oportunidad cuando entras en su zona de amenaza y *sonido de dados* uf *sonido de dados* te endiña un coletazo que te hace 13 puntos de daño.
 K.O.
 ¡Venga hombre, no me jodas!
 ¿Puntos de vida, Midel?
@@ -6,7 +6,7 @@ Menos seis.
 Por lo menos tú también sobrevives. Ya solo quedáis en pie Nídea y Erza y... ehehe, te toca, Erza.
 ...
 Ánimo tía, no dejes que tus dados te atormenten.
-Intenta olvidar que tus tres únicas tiradas de ataque de la partida de hoy han sido pifias.
+Intenta olvidar que tus tres únicas tiradas de ataque en la partida de hoy han sido pifias.
 ¡Pero esto tiene que ser un caso de estudio por huevos! ¿Qué probabilidad hay de que una persona saque tres unos seguidos en un d20? ¡Máximo una entre un millón!
 Exactamente una entre ocho mil.
 Erm... sí, cierto. Visto así no parece tan infrecuente.
@@ -19,13 +19,13 @@ A tomar por culo. Tiro el arco al suelo, desenvaino y cargo contra el cocodrilo.
 Ok, crearás un ataque de oportuni...
 Espera, que no he terminado. Además, cargaré haciendo volteretas para despistarle e intentaré cascarle un ataque furtivo.
 ¡Nooooo! ¡Se ha vuelto completamente loca!
-Esta es mi chica, joder. Y esta es la jodida actitud, cagüen Cristo. 
+Esa es mi chica, joder. Y esta es la jodida actitud, cagüen Cristo. 
 Pienso lo mismo. Si vamos a morir todos, qué menos que caer con estilo...
-Empecemos el festival de tiradas. Este bicho es de tamaño Grande, así que en condiciones normales crearías un ataque de oportunidad por pasearte por su rango de amenaza. Sin embargo, puesto que has mencionado que vas en plan Cirque du Soleil, tírame Piruetas para evitarlo.
+Empecemos el festival de tiradas. Este bicho es de tamaño Grande, así que en condiciones normales crearías un ataque de oportunidad por pasearte por su zona de amenaza. Sin embargo, puesto que has mencionado que vas en plan Cirque du Soleil, tírame Piruetas para evitarlo.
 *sonido de dados* ...hostia puta, esto no es justo.
 Calma, dime cuánto sumas.
 15.
-Lo esquivas por los pelos. Y antes de que me digáis que me he ablandado, que sepáis que esta es una DC estándar del manual.
+Lo esquivas por los pelos. Y antes de que digáis que me he ablandado, que sepáis que esta es una DC estándar del manual.
 Doy fe.
 ¿DC?
 Difficulty Check. El numerito que hay que superar, vamos. Normalmente lo pongo yo a ojo, pero ese en concreto viene en el libro.
@@ -37,13 +37,13 @@ Buff... *sonido de dados* ...¡26!
 De sobras. El cocodrilo te pierde de vista durante un solo segundo, así que considera que está desprevenido durante tu siguiente ataque. Todo tuyo, métele.
 *sonido de dados* ¿Toco con un 24?
 ¡Muerte!
-Tocabas con un triste 10, así que sí.
+Tocabas con un 15, así que sí.
 ¡Destrucción!
 Pero espera, loca. ¿Qué has sacado en el dado?
 Un 18.
 ¿Eres consciente de que llevas un estoque y que eso es amenaza de crítico? Vuelve a tirar, anda.
 ¡Sangre!
-*sonido de dados* Dices que con un 10 toco, ¿no?
+*sonido de dados* Dices que con un 15 toco, ¿no?
 ¡Mátalo, Erza! ¡Véngame!
 Efectivamente. Tira daño, que esto promete.
 ¡Quiero un casco con su cabeza!
