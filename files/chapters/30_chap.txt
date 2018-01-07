@@ -299,11 +299,11 @@ No puedo contener una sonrisa. Maldita tramposa retorcida... La cara de sorpresa
 
 Veo que se miran mutuamente durante más tiempo del recomendable dada nuestra situación, y un nuevo crujido de madera procedente de la puerta que Barney mantiene cerrada con su cuerpo me confirma que no deberíamos perder más tiempo. Agarro a Elsa de la mano y la arrastro por las escaleras de bajada... o esa es mi intención en un principio, porque enseguida me doy cuenta de que voy a necesitar ambas manos para hacer el descenso sin matarme.
 
-Nídea ha canalizado un hechizo de Luz en su propio bastón pero, por desgracia, los cuerpos de mis compañeros lo bloquean y mi visibilidad es casi nula. Además, las oscuras paredes del túnel absorben prácticamente toda la luz, hasta el punto que solo soy capaz de reconocer unas piedras grises, distribuidas uniformemente por el suelo. Descendemos en espiral, casi verticalmente, y al perder pie por primera vez suelto la mano de Elsa para apoyarme en la pared. Al hacerlo, palpo una protuberancia de madera, a la que me agarro instintivamente. Es bastante sólida y parece que se extiende a lo largo del pasillo a modo de barandilla... así que me agarro a ella como si mi vida dependiera de ello.
+Nídea ha canalizado un hechizo de Luz en su propio bastón pero, por desgracia, los cuerpos de mis compañeros lo bloquean y mi visibilidad es casi nula. Además, las oscuras paredes del túnel absorben prácticamente toda la luz, hasta el punto que solo soy capaz de reconocer unas piedras grises distribuidas uniformemente por el suelo. Descendemos en espiral, casi verticalmente, y al perder pie por primera vez suelto la mano de Elsa para apoyarme en la pared. Al hacerlo, palpo una protuberancia de madera. Es bastante sólida y parece que se extiende a lo largo del pasillo a modo de barandilla... así que me agarro a ella como si mi vida dependiera de ello.
 
 Me cuesta un par de patinazos darme cuenta de que el oscuro suelo es muy resbaladizo. Sin embargo, si apoyo los pies en las piedras grises que soy capaz de ver, no tengo demasiados problemas para descender. Aunque reconozco que la sensación es poco reconfortante: siento como si me estuviera hundiendo, por mi propio pie, en el más profundo de los abismos.
 
-Finalmente, tras unos interminables minutos de descenso, me da la sensación de que la cantidad de luz va aumentando. Por poco me caigo al suelo cuando la bajada finaliza abruptamente, el pasillo se ensancha, y me doy cuenta de que los tres compañeros que iban por delante de mí han llegado sanos y salvos. Ahora que nadie obstaculiza la luz que produce la vara de Nídea, reconozco con cierta sorpresa de qué material están hechas esas paredes tan oscuras que no me permitían ver el camino: simple tierra. Levanto la cabeza para contemplar el techo del pasillo, y me doy cuenta de que está formado por una endeble bóveda de raíces y ramas.
+Después de unos minutos de interminable descenso, me da la sensación de que la cantidad de luz va aumentando. Por poco me caigo al suelo cuando la pendiente finaliza abruptamente, el pasillo se ensancha y me doy cuenta de que los tres compañeros que iban por delante de mí han llegado sanos y salvos. Ahora que nadie obstaculiza la luz que produce la vara de Nídea, reconozco con cierta sorpresa de qué material están hechas esas paredes tan oscuras que no me permitían ver el camino: simple tierra. Levanto la cabeza para contemplar el techo del pasillo, y me doy cuenta de que está formado por una endeble bóveda de raíces y ramas.
 
 Por algún motivo, siento un escalofrío. Tal vez es el cansancio tras al duro descenso, o quizá el olor dulzón que invade mis fosas nasales cada vez que tomo aire. No, definitivamente se trata de otra cosa: me aterra darme cuenta de que estoy bajo tierra, dentro de un túnel que podría haber estado cavado por un topo colosal y que tiene aspecto de poder hundirse en cualquier momento.
 
@@ -313,9 +313,9 @@ Y entonces algo me empuja por la espalda, con fuerza, y me arranca un gritito de
 
 Nídea se apresura a chistar para pedir silencio, y no puedo evitar llevarme las manos a la boca con cierta vergüenza. Las porosas paredes han amortiguado el sonido, y... reconozco que, pese a que me preocupa la estabilidad del túnel, se respira una cierta paz en este lugar. Sin embargo, no debemos olvidar que estamos en el mismo corazón del campamento enemigo, y que no hemos venido aquí precisamente a holgazanear.
 
-Tras asegurarnos de que todos hemos llegado bien, avanzamos con cautela. Afortunadamente, el pasillo es mucho más amplio ahora que el descenso ha terminado, así que mi sensación de claustrofobia va disminuyendo paulatinamente. Además, tal vez esta cueva no sea tan endeble como yo creía: un montón de raíces subterráneas sobresalen de las paredes y el techo, adaptándose al espacio, lo cual me hace sospechar que este túnel no se ha cavado recientemente. ¿Por qué se iba a derrumbar precisamente hoy, tras tantos años?
+Tras asegurarnos de que todos hemos llegado bien, avanzamos con cautela. Afortunadamente, el pasillo es mucho más amplio ahora que el descenso ha terminado, así que mi sensación de claustrofobia va disminuyendo paulatinamente. Además, tal vez la cueva no sea tan endeble como yo creía: un montón de raíces subterráneas sobresalen de las paredes y el techo, adaptándose al espacio, lo cual me hace sospechar que este túnel no se ha cavado recientemente. ¿Por qué se iba a derrumbar precisamente hoy, tras tantos años?
 
-La única duda que me asalta es: ¿quién demonios habrá perforado la tierra hasta tanta profundidad... y por qué?
+Pero la pregunta que no paro de repetirme es: ¿quién demonios habrá perforado la tierra hasta tanta profundidad... y por qué?
 
 Mientras sigo pensando en ello, Elsa, que se ha adelantado para liderar la marcha, hace un gesto con la mano para que nos detengamos. Veo cómo toca la pared izquierda con la mano, cuidadosamente, y hasta que no me fijo bien no me doy cuenta de la existencia de una estrecha apertura, medio oculta entre las raíces. Elsa gira la cabeza para dedicarnos una sonrisa radiante y se agacha para esquivar la vegetación e introducirse en la brecha.
 
@@ -339,7 +339,7 @@ Me acerco con cautela, curiosa por conocer su descubrimiento, y enseguida me doy
 
 [img]name="definitif.png" aspectratio="1100:1066"
 
-La piedra ha sido cuidadosamente esculpida, y los surcos han sido ensombrecidos con algún tipo de polvo oscuro, probablemente carbón. La parte central está ocupada por un círculo, cruzado por algunas líneas onduladas. Probablemente se trate de alguna referencia al mar, porque una gran semiesfera decora la mitad superior igual que si se tratara de un Sol que emerge del océano por la mañana. Alrededor de esa imagen, como si se tratara de un rosetón, la piedra circular está dividida en ocho sectores de idéntico tamaño, cada uno de los cuales tiene una inscripción distinta.
+La piedra ha sido cuidadosamente esculpida y los surcos han sido ensombrecidos con algún tipo de polvo oscuro, probablemente carbón. La parte central está ocupada por un círculo, cruzado por algunas líneas onduladas. Probablemente se trate de alguna referencia al mar, porque una gran semiesfera decora la mitad superior igual que si se tratara de un Sol que emerge del océano por la mañana. Alrededor de esa imagen, como si se tratara de un rosetón, la piedra circular está dividida en ocho sectores de idéntico tamaño, cada uno de los cuales tiene una inscripción distinta.
 
 -Interesante -comenta Sigmaril, tras unos segundos-. Nunca en mi vida había visto estos símbolos.
 -La mayoría de estas escenas se parecen bastante entre sí -añade Nídea, con tono serio-. Estoy segura de que deben de significar algo.
@@ -363,16 +363,16 @@ Elsa señala hacia un grabado donde un extraño animal con alas acerca su mano h
 -Yo tampoco lo creo -replica ella, para mi sorpresa-, por eso deberíamos llevárnoslo.
 -¡No seré yo la que lo cargue! -resopla Vi- Esto debe de pesar por lo menos un quintal.
 
-Cuando Nídea saca un gran trozo de papel de su bolsa, me siento muy estúpida por haber estado a punto de replicar que era una idea absurda. Además del papel, extrae también un pequeño fragmento de carbón blando. Por un instante, me da la sensación de que va a intentar reproducir los dibujos, y temo por que llegue a obviar alguno de los detalles. Sin embargo, opta por una técnica mucho más sencilla: apoya el papel sobre la roca y, aprovechando que el papel se pliega hacia el interior de los relieves, frota indiscriminadamente el carbón para copiar la silueta.
+Cuando Nídea saca un gran trozo de papel de su bolsa, me siento muy estúpida por haber estado a punto de replicar que era una idea absurda. Además del papel, saca también un pequeño fragmento de carbón blando. Por un instante, me da la sensación de que va a intentar reproducir los dibujos, y temo por que llegue a obviar alguno de los detalles. Sin embargo, opta por una técnica mucho más sencilla: apoya el papel sobre la roca y, aprovechando que el papel se pliega hacia el interior de los relieves, frota indiscriminadamente el carbón para copiar la silueta.
 
-De nuevo, me siento un poco estúpida. Aunque tal vez debería de sentirme afortunada de que mis compañeros de aventuras sean tan resolutivos...
+De nuevo, me siento un poco estúpida. Aunque tal vez debería de sentirme afortunada de que mis compañeros de aventuras sean tan apañados...
 
 -Mientras ella copia el grabado -comenta Elsa-, los demás deberíamos decidir qué hacemos con todo esto.
 -Podemos envenenar sus provisiones y robar sus armas -sugiere Vi-. Aunque, a simple vista, todo este armamento es pura basura.
 -No creo que ganemos nada destruyendo su comida -dice Sigmaril, visiblemente indignado-. A fin de cuentas, intentaremos poner fin a esto hoy mismo.
 -Y si fallamos, ellos habrán ganado -replica Vi, con cierta tristeza en la mirada.
 -Joder, esto no es propio de ti -responde Elsa-. Nunca te había visto tan negativa, chica...
--La verdad es que, cada día que pasa... estoy más convencida de que esta misión nos viene grande.
+-La verdad es que cada día que pasa... estoy más convencida de que esta misión nos viene grande.
 
 Un silencio sepulcral se adueña de la estancia mientras digerimos sus duras palabras. Cuando pienso en que estamos bajo tierra, infiltrados en una base enemiga donde doscientas personas van a intentar terminar con nuestras vidas, me entran ganas de echarme a llorar. Incluso me parece notar que me empiezan a picar los ojos...
 

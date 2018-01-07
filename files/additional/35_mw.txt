@@ -25,7 +25,7 @@ Acertará de uvas a peras. Tiene un ataque de +12, y Samuel una CA de 28.
 ¡Coño! ¿28?
 Va inflao hasta las cejas. Las castañas del babau meten 1d6+5 más el daño de ácido, que no está mal, pero tampoco bastan para decantar la balanza.
 Casi diría que la cosa está bastante equilibrada. Podría palmar cualquiera de los dos.
-Pero Samuel tiene una dote muy loca: "Improved Smite Evil", dote del Complete Divine.
+Pero Samuel tiene una dote muy loca: "Improved Smite Evil", del Complete Divine.
 ¿Qué hace?
 De normal, los paladines pueden "Castigar el mal" una vez por día, y Samuel no es una excepción. Eso hace que sumen su nivel de personaje al daño, entre otras cosas.
 O sea que estaríamos hablando de un castañazo de 1d10+14.
