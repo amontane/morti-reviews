@@ -128,7 +128,7 @@ Sonrío. Hay que reconocer que el viejecito es simpático.
 
 Noto cómo mi felicidad se desvanece al instante. ¿No nos han admitido? ¡Joder! Yo daba por hecho que tenía un pie dentro...
 
--Veréis, hijos -continúa el Maestro, con una mirada de pesar-, el trabajo de aventurero no es sencillo. Nos jugamos la vida ahí fuera, desde la vigilancia más simple hasta la caza de recompensas de monstruos y criminales. No suelo admitir a gente sin apenas experiencia como vosotros porque no quiero poner en peligro a nadie, a menos que tenga la garantía de que estará preparado.
+-Veréis, hijos -continúa el Maestro, con una mirada de pesar-, el trabajo de aventurero no es sencillo. Nos jugamos la vida ahí fuera, desde la vigilancia más simple hasta la caza de recompensas de monstruos y criminales. No suelo admitir a gente sin apenas experiencia como vosotros porque no quiero poner en peligro a nadie a menos que tenga garantías de que estará preparado.
 
 Miro al suelo, abatida. Maldita sea, qué impotencia... Se me hace un nudo en la garganta y me empiezan a escocer los ojos. ¿Voy a tener que volver a las calles? ¿A tener que robar para poder comer? ¿A vivir con miedo de que la Guardia me capture y me lleve al cadalso?
 
@@ -149,7 +149,7 @@ No me parece mal. Miro a mi alrededor, nerviosa, para ver si alguno de mis nuevo
 -¿Es necesario que lo decidamos ahora mismo? -pregunta Midel- Tal vez deberíamos discutirlo primero.
 -¿Pero hay algo que discutir? -digo, con voz entusiasmada. Joder, parezco una niñata- ¿No tenemos alternativa, verdad?
 
-Me giro hacia las otras tres personas y por fin les veo bien la cara. Justo a mi derecha está la chica rubia, con rasgos muy finos y orejas... oh, ¿semielfa? Espera, un momento... ¡coño, es un hombre! Tiene una cara angelical, pero además de vestir esa espectacular coraza va armado con una espada larga y lleva un escudo a la espalda, así que no creo que sea precisamente una florecilla. A su derecha hay una mujer muy alta y delgada, de manos huesudas y rasgos afilados, envuelta en una capa de terciopelo. Lleva unos anteojos metálicos y el pelo recogido en un moño. Y el quinto en discordia es otra mujer, muy joven, ataviada con una armadura de mallas y una enorme espada en el cinto. Ella me mira intrigada, y debo reconocer que su cara me suena vagamente. ¿La conozco?
+Me giro hacia las otras tres personas y por fin les veo bien la cara. Justo a mi derecha está la chica rubia, con rasgos muy finos y orejas... oh, ¿semielfa? Espera, un momento... ¡coño, es un hombre! Tiene una cara angelical, pero además de vestir esa espectacular coraza va armado con una espada larga y lleva un escudo a la espalda, así que no creo que sea precisamente una florecilla. A su derecha hay una mujer muy alta y delgada, de manos huesudas y rasgos afilados, envuelta en una capa de terciopelo. Lleva unos anteojos metálicos y el pelo recogido en un moño. Y el quinto en discordia es otra chica, muy joven, ataviada con una armadura de mallas y una enorme espada en el cinto. Ella me mira intrigada, y debo reconocer que su cara me suena vagamente. ¿La conozco?
 
 Oh, mierda, no me jodas. ¡Por supuesto que la conozco!
 
@@ -160,7 +160,7 @@ Me cago en su puta estampa. ¡La camarera que me dejó sin aliento de un puñeta
 
 -¿Qué cojones haces tú aquí? -le grito, histérica.
 
-Me echo hacia adelante, y noto cómo Midel me sujeta por el hombro, impidiéndome avanzar.
+Me echo hacia adelante y noto cómo Midel me sujeta por el hombro, impidiéndome avanzar.
 
 -Lo mismo que tú, chica - responde ella.
 -¿No decías que el Gremio había caído muy bajo?
@@ -436,9 +436,9 @@ Tengo que admitir que pienso lo mismo. Acompañarnos a una misión sencilla debe
 
 Un hombre y una mujer capaces de silenciar una taberna llena de los tipos más duros de Torheim. Un escalofrío recorre mi espalda de arriba a abajo.
 
-El hombre es... resumiendo, el elfo más grande que he visto jamás. Va vestido únicamente con unos pantalones y unas botas, todo ello de cuero negro, y tanto su cara como su torso desnudo están cubiertos de siniestros tatuajes. Y, a simple vista, parece que también de cicatrices. Su piel está tostada por el sol, recoge su larga cabellera negra en una coleta alta, y no parece tener cara de buenos amigos. Lleva una espada de hoja fina enfundada en el cinto: un arma sorprendentemente elegante para un tipo de aspecto tan oscuro. La mujer, sin embargo, es todo lo contrario: bajita, delgada y con la piel muy clara, con una preciosa melena rubia que le llega casi a la cintura. Va vestida con una túnica blanca muy vaporosa, ceñida con un cinturón de cuero, y a simple vista no va armada. Además, ambos llevan capas bastante raídas encima de la ropa: parece evidente que acaban de regresar de un largo viaje.
+El hombre es... resumiendo, el elfo más grande que he visto jamás. Va vestido únicamente con unos pantalones y unas botas, todo ello de cuero negro, y tanto su cara como su torso desnudo están cubiertos de siniestros tatuajes. Y, a simple vista, parece que también de cicatrices. Su piel está tostada por el Sol, recoge su larga cabellera negra en una coleta alta, y no parece tener cara de buenos amigos. Lleva una espada de hoja fina enfundada en el cinto: un arma sorprendentemente elegante para un tipo de aspecto tan oscuro. La mujer, sin embargo, es todo lo contrario: bajita, delgada y con la piel muy clara, con una preciosa melena rubia que le llega casi a la cintura. Va vestida con una túnica blanca muy vaporosa, ceñida con un cinturón de cuero, y a simple vista no va armada. Además, ambos llevan capas bastante raídas encima de la ropa: parece evidente que acaban de regresar de un largo viaje.
 
-Con toda la naturalidad del mundo, bajan las escaleras y cruzan la sala, y las conversaciones retoman el volumen habitual. La explicación más obvia es que estos dos pertenecen al Gremio, pero no son dos aventureros cualesquiera. Vienen directo hacia nosotros pero no nos miran a los ojos, así que supongo que se deben de dirigir a la oficina del Maestro. Les echo un vistazo disimulado cuando pasan por nuestro lado y... Hostia puta, ¡este tío es enorme para ser un elfo! Es un poco más alto que Nídea, que prácticamente me saca un palmo, y mucho más musculoso que cualquier humano que haya visto en mi vida, incluso los que se lo tenían más creído. La constitución no es el punto fuerte de nuestra raza, pero sus orejas puntiagudas y sus ojos rasgados ligeramente brillantes no engañan: es tan elfo como yo.
+Con toda la naturalidad del mundo, bajan las escaleras y cruzan la sala, y las conversaciones recuperan el volumen habitual. La explicación más obvia es que estos dos pertenecen al Gremio, pero no son dos aventureros cualesquiera. Vienen directo hacia nosotros pero no nos miran a los ojos, así que supongo que se deben de dirigir a la oficina del Maestro. Les echo un vistazo disimulado cuando pasan por nuestro lado y... Hostia puta, ¡este tío es enorme para ser un elfo! Es un poco más alto que Nídea, que prácticamente me saca un palmo, y mucho más musculoso que cualquier humano que haya visto en mi vida, incluso los que se lo tenían más creído. La constitución no es el punto fuerte de nuestra raza, pero sus orejas puntiagudas y sus ojos rasgados ligeramente brillantes no engañan: es tan elfo como yo.
 
 El gigante pasa por nuestro lado sin ni siquiera mirarnos, y de nuevo noto un escalofrío. Su compañera, sin embargo, sonríe y ladea la cabeza educadamente. Pese a tener la piel tan clara, no soy capaz de ver ni una sola marca en ella. Ni una sola peca, ni siquiera una cicatriz... su piel es simplemente perfecta. Y esos ojos color azul cielo... joder, es muy guapa. Y además tengo que admitir que las curvas que se adivinan debajo de su holgada túnica son perturbadoras. Se me ocurre mirar la cara de tonto que debe de estar poniendo Sigmaril tras ver a este bellezón pero... contra todo pronóstico, parece asustado. Casi podría decir aterrorizado.
 
@@ -459,7 +459,7 @@ Viendo las miraditas, no puedo evitar sentirme un poco celosa. Me temo que no te
 
 Caray. El pergamino con la misión ha estado en mi mano todo el rato. ¡Qué memoria tiene esta tía!
 
--Muy bien -asiente Jack, con tono mucho más serio-. ¿Cuándo queríais partir?
+-Muy bien -asiente Jack, con un tono mucho más serio-. ¿Cuándo queríais partir?
 -Si es posible, ahora mismo -contesta Midel. 
 
 ¡Así me gusta, con entusiasmo! Jack se queda mirándola durante unos instantes, sorprendido.
