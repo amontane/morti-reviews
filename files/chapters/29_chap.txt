@@ -19,7 +19,7 @@ Para variar, las apreciaciones de Nídea tienen mucho sentido. Me encojo de homb
 
 Y, muchos metros de caminata más tarde, avisto a lo lejos la tenue luz de una hoguera: por fin lo hemos logrado y, además, somos los últimos. Barney y Samuel ya han terminado el... "recado" que les ocupaba, sea lo que fuere.
 
--¡Por fin habéis vuelto! -grita el gordo, acercándose para recibirnos- ¿Habéis tenido problemas?
+-¡Por fin habéis vuelto! -grita el gordo, acercándose para recibirnos-. ¿Habéis tenido problemas?
 -Ninguno -responde Raenda, dejando al suelo el cuerpo encadenado que ha transportado durante todo el trayecto.
 -¿Y este fiambre?
 
@@ -30,7 +30,7 @@ De modo que ahora solo nos queda el pobre desdichado que se enfrentó a Sigmaril
 -Es nuestro único testigo -explica Raenda-. Suponiendo que vaya a despertar algún día, claro.
 -¿Me permitís examinarle? -pregunta Sigmaril, alzándose de repente.
 -Te ruego que lo hagas -asiente Nídea, depositando en el suelo el gran saco de arpillera que ha cargado desde el campamento.
--¿Y ese bulto? -insiste Barney- ¿Otro muerto?
+-¿Y ese bulto? -insiste Barney-. ¿Otro muerto?
 
 Nídea toma asiento, masajeándose el hombro, y le invita a que compruebe su contenido por sí mismo. Hemos metido en esa bolsa todos los objetos de valor que hemos sido capaces de identificar. Lo más pesado: doce espadas de distintos tamaños y una coraza cuidadosamente pulida. Todo junto debe de pesar más de veinte kilos, y por eso me ha sorprendido que Nídea se ofreciera a llevarlo a cuestas. ¡Y, además, no se ha quejado ni una sola vez durante todo el trayecto! La gafitas se nos está volviendo una tía dura de verdad.
 
@@ -65,7 +65,7 @@ Pero eso no explica por qué coño discuten.
 No me gusta el tono que está tomando esta conversación. Y menos todavía cuando Samuel fulmina a su compañero con la mirada y replica, con tono venenoso:
 
 -Basta, Meriel. No toleraré que...
--¡Tú también, Samuel! -interviene Raenda, con voz autoritaria- ¡Dejadlo de una vez, los dos!
+-¡Tú también, Samuel! -interviene Raenda, con voz autoritaria-. ¡Dejadlo de una vez, los dos!
 -Escuchémosle, Raenda -añade Meriel, fulminando al antiguo paladín con la mirada-. Me interesa mucho lo que nos tiene que decir.
 -Creía que alguien que no es capaz de respetar la jerarquía no merecía trabajar en vuestro Monasterio, Meriel -interrumpe Sigmaril, justo antes de que Samuel llegue a abrir la boca-. Dime, ¿eso te incluye? ¿Crees que esa es manera de dirigirte al líder de tu equipo?
 
@@ -108,7 +108,7 @@ Desde luego da la impresión de que, si se llegara a liberar, podría causarnos 
 
 -¿Qué vamos a hacer con este pobre infeliz? -pregunto, aprovechando que el resto de la compañía se empieza a despertar.
 -Interrogarle, por supuesto -comenta Samuel-. Cuento con que vosotros sabréis cómo hacerlo.
--¿Has oído? -añado, dirigiéndome al bandido- Supongo que estás familiarizado con estas situaciones. Cuanto más colabores, menos te dolerá.
+-¿Has oído? -añado, dirigiéndome al bandido-. Supongo que estás familiarizado con estas situaciones. Cuanto más colabores, menos te dolerá.
 
 El tipo me mira, arqueando las cejas, y no dice ni una sola palabra. Tengo que admitir que, pese a que sé que está completamente indefenso y a nuestra merced, mi sexto sentido no para de implorarme que me desentienda de esto. Sin embargo, no me puedo permitir el lujo de hacerlo: se lo debo a Hammock.
 
@@ -127,7 +127,7 @@ El hombre toma aire, traga saliva y abre un poco la boca, para finalmente sonre�
 
 -No te equivoques con nosotros -continúo, mientras me levanto del suelo-. Hemos matado a todos tus hombres, así que ya te imaginarás que no somos unos santos. Puede que creas que solo por pertenecer a un grupo criminal con menos honor que las ratas no puede existir nadie peor... pero te equivocas: siempre hay alguien peor.
 -¿Qué sabrá una zorra como tú del honor? -contesta el tipo, con voz ronca.
--¡Eh, sabes hablar! -respondo, sonriente- Sé mucho más de eso que un sucio bandido como tú, por lo menos.
+-¡Eh, sabes hablar! -respondo, sonriente-. Sé mucho más de eso que un sucio bandido como tú, por lo menos.
 -Nos habéis atacado a traición, mientras huíamos de unos monstruos. Habéis matado a buenos hombres a sangre fría y desde las sombras. No me des lecciones de honor, maldita ramera.
 
 Mira, la verdad es que en eso tiene razón el pobre gilipollas. Sin embargo, en lugar de recular, vuelvo a agacharme a su lado para decir:
@@ -150,7 +150,7 @@ Sin avisar, propina una fuerte patada en el costado del hombre, que tuerce el ge
 El hombre no cede, y Vi reacciona pateándole repetidamente las costillas sin aflojar el agarre sobre su cabellera. Pese a que lo intenta con todas sus fuerzas, no logra reprimir su dolor y acaba gritando ante la brutal paliza. Es cierto que hace un segundo yo misma le he abofeteado... pero tanta violencia me parece excesiva.
 
 -No tenemos por qué hacer las cosas de esta manera -comento, con voz dulce, cuando Vi se detiene-. Danos lo que queremos, y tienes mi palabra de que te dejaremos ir.
--No... -responde el hombre, jadeando- No, tu palabra... no vale... ni una mierda.
+-No... -responde el hombre, jadeando-. No, tu palabra... no vale... ni una mierda.
 -Veo que todavía tienes fuerzas para hacerte el duro -insiste Vi, poniendo un pie sobre su espalda y apoyando el peso encima para obligarle a doblarse hacia adelante-. ¡Habla de una puta vez! ¿Quiénes sois y qué coño queréis?
 -No vais... a conseguir nada... de mí...
 -Eso ya lo veremos.
@@ -167,15 +167,15 @@ Así que simplemente intento endurecer mi mirada para que el bandido no sepa que
 
 El hombre cierra fuertemente los párpados y la mandíbula, resignándose. Y, justo cuando Vi tensa el hombro para rebanarle el dedo, una voz atronadora nos sobresalta a todos.
 
--¡Basta! -brama Samuel- Ya es suficiente, Vi. Deja ese cuchillo.
+-¡Basta! -brama Samuel-. Ya es suficiente, Vi. Deja ese cuchillo.
 
 Su tono autoritario me provoca un escalofrío. Vi levanta la cabeza, asustada, y enseguida frunce el ceño.
 
 -Cállate. Solo estoy animándole a que nos cuente lo que queremos saber.
--¿Animándole? -replica Samuel, sorprendido- Hablé de un interrogatorio. Confiaba en que sabríais hacerlo, pero esto tiene otro nombre: tortura. Tal vez sobreestimé vuestras habilidades...
+-¿Animándole? -replica Samuel, sorprendido-. Hablé de un interrogatorio. Confiaba en que sabríais hacerlo, pero esto tiene otro nombre: tortura. Tal vez sobreestimé vuestras habilidades...
 -¿Crees que sabrías hacerlo mejor, eh?
 -Por supuesto, de modo que guarda ese cuchillo.
--¿Esto te parece bien, Nídea? -brama Vi- Dime, oh gran líder de la misión: ¿te parece bien que este tipo dicte las órdenes a su antojo?
+-¿Esto te parece bien, Nídea? -brama Vi-. Dime, oh gran líder de la misión: ¿te parece bien que este tipo dicte las órdenes a su antojo?
 -Tal vez no entiendes muy bien lo que significa ser un líder, Vi -replica ella, con una voz tan fría que me eriza el vello de los brazos-. Mira a tu alrededor y dime si crees que a alguien le parecen bien tus métodos.
 
 No puedo evitar hacerle caso y lanzar miradas furtivas hacia el resto de gente, y basta un simple vistazo para darse cuenta de que no somos solamente Samuel y yo: todo el mundo, salvo tal vez Meriel, está en vilo. Barney incluso parece estar sintiendo el dolor del bandido en sus propias carnes, a juzgar por su extraña expresión facial...
@@ -211,7 +211,7 @@ Vi tensa los labios en una fina línea y se da la vuelta con furia para dirigirs
 
 -Cálmate un poco, anda -le susurro, poniendo una mano en su hombro-. Hace un día demasiado bonito como para estropearlo con una bronca.
 -Tú no lo entiendes, Elsa -replica ella, fulminándome con la mirada-. Así que, por favor, no me toques la moral.
--¿Crees que no lo entiendo? -contesto, arqueando las cejas- Tú estás frustrada, porque ayer te encontraste con la horma de tu zapato. Tomaste una mala decisión y te rezagaste, separándote del grupo, y ello te llevó a luchar contra un oponente mucho más hábil que tú.
+-¿Crees que no lo entiendo? -contesto, arqueando las cejas-. Tú estás frustrada, porque ayer te encontraste con la horma de tu zapato. Tomaste una mala decisión y te rezagaste, separándote del grupo, y ello te llevó a luchar contra un oponente mucho más hábil que tú.
 
 Vi continúa mirándome, con el ceño fruncido, y no dice nada. Parece que tendré que hacer algo más que rascar un poco la superficie...
 
@@ -264,7 +264,7 @@ Solo espero que no recibiera mucho dinero por adelantado. Teniendo en cuenta que
 
 -Ya debe de ser mediodía -comenta Samuel, devolviéndome de repente a la realidad-. ¿Queréis que nos detengamos para almorzar?
 -De acuerdo -asiente Nídea, para mi alivio.
--¿Y tú? -añade Samuel, dirigiéndose al bandido- ¿Tienes hambre o sed?
+-¿Y tú? -añade Samuel, dirigiéndose al bandido-. ¿Tienes hambre o sed?
 
 De nuevo, el hombre niega con la cabeza, pero sus ojos transmiten una sensación muy distinta. Está claro que caminar sin descanso con una carga tan pesada le ha dejado completamente agotado, y es imposible que no se esté muriendo de sed después de tal proeza. Sigo sin comprender qué intenciones tiene el monje para con nuestro prisionero pero... tengo que admitir que me empieza a inspirar compasión.
 
@@ -275,7 +275,7 @@ Cuando retomamos el viaje, decido cotillear un poco para distraer mi mente y no 
 -Oye, Raenda -le susurro, cuando me alcanza-, ¿cómo va la herida de tu espalda?
 -No te ofendas -responde, con una sonrisa cálida-, pero solo fue un rasguño. Tranquila, todo está bien.
 -Me alegro -suspiro, fingiendo estar aliviada. A fin de cuentas, yo ya sabía eso-. Me hubiera jodido bastante que un malentendido como ese pudiera causar complicaciones. Después de pasar un día entero con vosotros, me empezáis a caer bien...
--¿Dices eso después de haber visto al Sapo en plena acción? -replica ella, entre carcajadas, refiriéndose al eructo en la cara que me llevé por gilipollas- Caramba, chica, eres mucho más dura de pelar de lo que aparentas.
+-¿Dices eso después de haber visto al Sapo en plena acción? -replica ella, entre carcajadas, refiriéndose al eructo en la cara que me llevé por gilipollas-. Caramba, chica, eres mucho más dura de pelar de lo que aparentas.
 -Bueno, si tuviera que tener algún problema con alguien no sería con Barney sino más bien con Meriel...
 
 Raenda se muestra sorprendida ante mi respuesta, y continúo explicándole que el rifirrafe que ha tenido con Samuel me preocupa especialmente. Sinceramente, no es verdad: me da igual la escala de valores de cada uno mientras no interfiera con la misión, y la sumisión absoluta que ha mostrado el monje tras el toque de atención de Sigmaril me confirma que no tengo motivos para inquietarme. Sin embargo, pienso que tal vez fingiendo preocupación puedo conseguir que su compañera me cuente más sobre él.
@@ -292,7 +292,7 @@ Efectivamente, Raenda me contradice y se deshace en elogios hacia su compañero.
 
 También me cuenta que ellos dos se internaron en el Monasterio más o menos a la vez, hace veinte años, y que eso les convierte en dos de los monjes más veteranos de la Orden. Por un momento eso me hace dudar sobre las edades de ambos, pero Raenda me cuenta algo que me deja patidifusa. Pese a que, por su apariencia, podrían ser tranquilamente padre e hija, ella y Barney tienen exactamente la misma edad: treinta y cinco años. 
 
--¿Y por qué no ha pasado nada entre vosotros? -pregunto- Estoy de acuerdo que Barney no es el tío más atractivo del mundo, pero está claro que lo quieres con locura.
+-¿Y por qué no ha pasado nada entre vosotros? -pregunto-. Estoy de acuerdo que Barney no es el tío más atractivo del mundo, pero está claro que lo quieres con locura.
 
 Mi intervención pilla a Raenda desprevenida, y reacciona con una sonora carcajada. Vale, supongo que iba bastante desencaminada.
 
@@ -301,7 +301,7 @@ Mi intervención pilla a Raenda desprevenida, y reacciona con una sonora carcaja
 Asiento en silencio, mientras trato de asimilar sus palabras. La fraternidad es un concepto que no me es sencillo entender. A fin de cuentas, todo el mundo parece tener ideas distintas acerca de lo que significa considerar un hermano a alguien que no es de tu propia sangre. Por ejemplo, Jack y Brianrietta de Sune tienen ese tipo de relación... y eso no supone un impedimento para que se pongan a follar como conejos cada vez que tienen ocasión.
 
 -Además -prosigue Raenda, interrumpiendo mis divagaciones-, estoy casada desde hace quince años y tengo cuatro hijos preciosos.
--¿Qué? -exclamo, abriendo los ojos como platos- Joder, eso sí que no me lo esperaba. ¿Qué edad tiene el mayor?
+-¿Qué? -exclamo, abriendo los ojos como platos-. Joder, eso sí que no me lo esperaba. ¿Qué edad tiene el mayor?
 -Cumple catorce este invierno. El pequeño Jürgen se ha pasado todo el último año quejándose de que no le permitíamos enrolarse, pero eso no sucederá por lo menos hasta que cumpla los quince. Nos espera otro año movidito...
 -Así que el niño os ha salido guerrero -replico, sonriendo-. Será mejor que evites que él y Vi se conozcan. Tienen casi la misma edad, y esa enana peleona os lo puede revolucionar todavía más.
 -Lo tendré en cuenta -contesta, entre carcajadas-. Gracias por la advertencia.
@@ -310,9 +310,9 @@ Asiento en silencio, mientras trato de asimilar sus palabras. La fraternidad es 
 
 Marko... ese nombre me suena mucho, pero no recuerdo exactamente dónde lo he oído antes.
 
--¿Qué pasó? -pregunto- Si no estoy siendo muy indiscreta...
+-¿Qué pasó? -pregunto-. Si no estoy siendo muy indiscreta...
 -No es ningún secreto -asiente ella-. Hace cinco años, fue capturado y torturado. Logramos rescatarle antes de que fuera demasiado tarde, pero los tendones de su pierna derecha habían sido seccionados... igual que su lengua.
--¿Su lengua también? -replico, horrorizada- Menudos hijos de puta...
+-¿Su lengua también? -replico, horrorizada-. Menudos hijos de puta...
 -Los sádicos que le hicieron eso eran un grupo de desertores del ejército de Tellulah. La guerra les debió de haber vuelto locos, porque no buscaban absolutamente nada con esa tortura. Solamente querían hacerle mucho daño a alguien...
 
 ¡Oh, ya lo recuerdo!
@@ -323,10 +323,10 @@ Marko... ese nombre me suena mucho, pero no recuerdo exactamente dónde lo he o�
 -¡Para nada! Marko sigue siendo la persona maravillosa con la que me casé. Además, su habilidad para forjar armas ha mejorado mucho desde que solo se dedica a eso.
 -¿Este bastón es obra suya? -pregunto, señalando la vara en la que se apoya.
 -Es su obra maestra. Tiene un alma de metal, y es posible incrustar una hoja en cada uno de los dos extremos. Mi especialidad es el combate con armas de asta, así que está prácticamente diseñada para mí.
--No hay nada como tener un marido armero -bromeo- Y... ¿no echas de menos hablar con él?
+-No hay nada como tener un marido armero -bromeo-. Y... ¿no echas de menos hablar con él?
 -Inventamos un sistema de símbolos para poder entendernos. Fue una idea loca del Sapo, para variar.
 -Caramba... no sé por qué, pero me daba la sensación de que el bueno de Barney odiaría a tu marido.
--¿Qué dices? -replica ella, con una carcajada- Los tres crecimos juntos. Además, nunca hubiéramos encontrado a Marko a tiempo de no haber sido por él.
+-¿Qué dices? -replica ella, con una carcajada-. Los tres crecimos juntos. Además, nunca hubiéramos encontrado a Marko a tiempo de no haber sido por él.
 
 Lo primero que pienso ante esa respuesta es que al pobre desgraciado de Barney le ha tocado la peor parte en este triángulo amoroso. Sin embargo, al momento se me ocurre que tal vez estoy juzgándoles mal: esos tres simplemente sienten aprecio mutuo, sin importar lo rara que pueda parecer su situación desde fuera. Y al darme cuenta de que yo jamás he sentido algo así por nadie, no puedo evitar tener cierta envidia.
 
@@ -364,7 +364,7 @@ Estoy completamente desconcertada. Con lo hermético que ha sido hasta el moment
 
 -Aaaah, esta es la mejor parte -susurra Barney a mi oído, con una voz que me provoca un escalofrío-. Podría masturbarme viendo cómo Samuel hace esto.
 -No me lo puedo creer -comento, en voz baja-. ¿Qué clase de truco está utilizando para hacerle cantar de ese modo?
--¿Ves ese pellejo del que bebe? -responde Barney, señalando su propio odre de agua, ahora en posesión del bandido- El pobre infeliz se piensa que solo es agua, pero está mezclada con savia de arce azul, un potente veneno.
+-¿Ves ese pellejo del que bebe? -responde Barney, señalando su propio odre de agua, ahora en posesión del bandido-. El pobre infeliz se piensa que solo es agua, pero está mezclada con savia de arce azul, un potente veneno.
 -¿Le habéis envenenado?
 -Solo un poco. Yo mismo he preparado la mezcla, así que te aseguro que no va a morir. Simplemente, durante un rato será... un poco más sugestionable de lo normal.
 
@@ -460,7 +460,7 @@ Al ver cómo todo el mundo, incluídos Samuel y el tal Fried, giran la cabeza pa
 
 Pero eso me da igual en este momento: ¡estoy pletórica!
 
--¿Qué leches te pasa a ti? -me susurra Barney, tratando de contener la risa- ¡Te falta un tornillo, chica!
+-¿Qué leches te pasa a ti? -me susurra Barney, tratando de contener la risa-. ¡Te falta un tornillo, chica!
 -Barney -replico, en voz baja-, ¿qué tal se te da la alquimia?
 -Admito que es lo último que esperaba que me preguntaras -responde, sorprendido-. Sé algunas cosillas.
 -¿Sabes qué es el vinagre alquímico?
@@ -486,11 +486,11 @@ Es una lástima que esos tres enormes trolls decidieran fastidiarle el plan ente
 
 ¿Tir na Nog?
 
--¿Y qué otra cosa puedo hacer? -responde el hombre, resoplando- No pienso dejar que la General pague por mi error.
+-¿Y qué otra cosa puedo hacer? -responde el hombre, resoplando-. No pienso dejar que la General pague por mi error.
 -Yo iré por ti, compañero. Estoy seguro de que, si se lo explico, me entenderán.
 -No tienes ni idea de lo que estás hablando.
 -Es una orden, Capitán Fried -insiste Samuel, con una voz repentinamente imperativa-. Irás a Karumu, y esperarás.
--¿Esperar? -pregunta el mercenario, claramente confundido- ¿A quien?
+-¿Esperar? -pregunta el mercenario, claramente confundido-. ¿A quien?
 -A la General Rothfuss.
 
 Lo que pasa a continuación me sobresalta hasta el punto que por poco se me escapa un grito. Sin ni siquiera levantarse del suelo, Samuel propina un brutal puñetazo a su interlocutor en el plexo solar, provocando que se desplome.
@@ -498,7 +498,7 @@ Lo que pasa a continuación me sobresalta hasta el punto que por poco se me esca
 -Raenda -dice Samuel, alzándose-, ¿puedes desatarle? Ya sabemos todo lo que necesitábamos: no tiene sentido que sigamos reteniendo a este hombre.
 -Como ordenes -responde ella, desenvainando un grueso cuchillo para cortar las cuerdas que le retienen.
 -Nídea -continúa Samuel-, ¿cuál es el plan?
--Nueve contra doscientos... -resopla Nídea- Si acudimos a Tir na Nog, está claro que no tenemos ninguna posibilidad de victoria.
+-Nueve contra doscientos... -resopla Nídea-. Si acudimos a Tir na Nog, está claro que no tenemos ninguna posibilidad de victoria.
 
 Otra vez ese "Tir na Nog". ¿Será el lugar donde estos bandidos tienen su base de operaciones? Aunque si no he entendido mal, eso implicaría que hay doscientos hijos de puta con sus doscientos tabardos esperándonos ahí. Mierda, creo que me he perdido una buena parte del interrogatorio, así que será mejor que calle y escuche...
 
@@ -507,8 +507,8 @@ Otra vez ese "Tir na Nog". ¿Será el lugar donde estos bandidos tienen su base 
 
 Joder, y además parece que ha sido una parte bastante importante...
 
--¿Podemos fiarnos de lo que este tal Fried ha dicho? -pregunta Vi- Todavía no me puedo creer que lo haya largado todo por voluntad propia...
--¡Le hemos drogado! -explica Barney, triunfalmente- Estaba en un estado tan sugestionable que, cuando despierte, lo único que querrá es ir a Karumu a esperar a esa General suya. Es lo último que le ha ordenado ese cabrón de ahí antes de noquearlo...
+-¿Podemos fiarnos de lo que este tal Fried ha dicho? -pregunta Vi-. Todavía no me puedo creer que lo haya largado todo por voluntad propia...
+-¡Le hemos drogado! -explica Barney, triunfalmente-. Estaba en un estado tan sugestionable que, cuando despierte, lo único que querrá es ir a Karumu a esperar a esa General suya. Es lo último que le ha ordenado ese cabrón de ahí antes de noquearlo...
 -He pensado que seria lo mejor para él -responde Samuel, por alusiones-. Ese hombre es peligroso, pero no es un asesino sino un soldado. Si cree que está aguardando órdenes, esperará pacientemente.
 -¿Qué hacemos, Nídea? -insiste Sigmaril.
 
@@ -524,7 +524,7 @@ Asiento con la cabeza.
 -El problema es la base de operaciones en sí misma -interviene Barney, repentinamente serio-. ¿Habéis oído hablar alguna vez de Tir na Nog?
 -Sí -responde Sigmaril-. Sé que, antaño, fue un lugar sagrado para los druidas.
 -Así es -confirma el monje.
--¿Druidas? -pregunta Midel- ¿Quiénes son los druidas?
+-¿Druidas? -pregunta Midel-. ¿Quiénes son los druidas?
 -Una antigua sociedad dedicada al culto a la naturaleza -explica Sigmaril-. Se dice que un día, hace cincuenta años, desaparecieron sin más.
 -Hay una chanza popular al respecto: la tierra que tanto veneraban se los tragó -añade Barney, con una carcajada.
 -¿Por qué crees que puede ser un problema? -le pregunto al monje, tratando de retomar el tema.

@@ -173,7 +173,7 @@ Vi levanta la mano para saludar a una Midel completamente desorientada. Justo en
 -He estado mejor -contesta Vi, haciendo una repentina mueca de dolor-. La cabeza me va a estallar en cualquier momento.
 -Creo que he estado todo este tiempo dentro de un tipo con una armadura brillante -dice Midel, sorprendida-. Y he usado una maza por primera vez en mi vida.
 -Se ha notado, guapa -replica Vi, con una carcajada-. ¿Cómo has llegado la conclusión de que la maza se sujetaba por el nudo?
--¡P-pesaba demasiado! -se defiende ella, roja de vergüenza- Como la cabeza era tan pesada, no podía blandirla bien, así que la sujeté del revés.
+-¡P-pesaba demasiado! -se defiende ella, roja de vergüenza-. Como la cabeza era tan pesada, no podía blandirla bien, así que la sujeté del revés.
 -¡Joder, esa es la gracia, que pese! Madre del amor hermoso...
 -Por suerte, he encontrado una ballesta entre sus pertenencias. Si no llega a ser por eso, el elfo no lo cuenta.
 -Ese era yo -comento, con voz seca. Y añado, sonriendo-. Y estoy de acuerdo, así que supongo que estoy en deuda contigo.
@@ -182,10 +182,10 @@ Vi levanta la mano para saludar a una Midel completamente desorientada. Justo en
 Lleva razón: las cinco personas cuyos cuerpos estábamos ocupando hace tan solo unos instantes se han reunido y están hablando en voz baja. El hombre de la armadura brillante se ha arrodillado frente al cuerpo del rubio, y este se empieza a incorporar sin problemas. ¿Le ha sanado? Pese a que no distingo ningún símbolo sagrado en su coraza, puede que se trate de un clérigo, como Sigmaril.
 
 -¿Estáis todos bien? -dice, con voz amable, el hombre de la túnica raída.
--¡Estoy a mil jodidas millas de estar bien, Grot! -brama el hombre rubio, y automáticamente se lleva una mano a la frente ensangrentada- Joder, tengo todo el cuerpo lleno de hierbajos de mierda por tu puta culpa.
+-¡Estoy a mil jodidas millas de estar bien, Grot! -brama el hombre rubio, y automáticamente se lleva una mano a la frente ensangrentada-. Joder, tengo todo el cuerpo lleno de hierbajos de mierda por tu puta culpa.
 -Bueno, bueno, no te enfades. Lo he hecho por...
 -Supongo que eres consciente de que tu oportuna plegaria por poco me cuesta la vida, Grothos -le interrumpe el elfo, con voz condescendiente.
--¿Y qué hay de lo otro? -grita el rubio, levantándose con dificultad- Era como si alguien estuviera controlando mi cuerpo. Hostia puta, he recibido un buen garrotazo por culpa de eso. ¿Ha sido cosa tuya, Grot?
+-¿Y qué hay de lo otro? -grita el rubio, levantándose con dificultad-. Era como si alguien estuviera controlando mi cuerpo. Hostia puta, he recibido un buen garrotazo por culpa de eso. ¿Ha sido cosa tuya, Grot?
 -Te aseguro que no -contesta, todavía sonriendo-, porque yo también he conocido a un visitante.
 -¿Vosotros también? -pregunta el clérigo.
 
@@ -225,20 +225,20 @@ El tal Grothos ni siquiera se digna a contestar. En lugar de eso, se arrodilla j
 
 La niña... o quizá debería decir Elsa, duda un poco al principio, pero termina obedeciendo. En el momento en que sus manos entran en contacto, el hombre empieza a tararear una canción en un idioma que no había oído jamás. ¿Magia? Por un momento he pensado que iba a ejecutar el mismo tipo de magia arcana que domina Jack Valentine. Sin embargo, se trata de una sencilla tonada, simple y bonita, cuya letra no logro entender. Pero parece que funciona, porque la respiración de la niña se va volviendo más pausada hasta que, de repente, una silueta aparece a su lado. Una silueta que conocemos bien.
 
--¡Jodido estirado de mierda! -grita Elsa, ya fuera del cuerpo, encarándose con el elfo del grupo- ¡Vete a intentar exorcizar a tu puta madre, hijo de veinte mil zorras leprosas!
+-¡Jodido estirado de mierda! -grita Elsa, ya fuera del cuerpo, encarándose con el elfo del grupo-. ¡Vete a intentar exorcizar a tu puta madre, hijo de veinte mil zorras leprosas!
 
 Elsa se acerca al elfo por detrás y trata de propinarle una patada en el trasero pero, como era de esperar, su pie astral pasa a través. El ímpetu del ataque, sumado a la falta inesperada de resistencia, provoca que Elsa se desequilibre y caiga al suelo, cómicamente. Una situación un tanto absurda, si tenemos en cuenta la tierna imagen de la niña pelirroja, abrazada a su mentor mientras llora desconsoladamente.
 
 -¡Me cago en todos los Dioses habidos y por haber! ¿Qué coño le pasa a tu cuerpo? ¡Y no me ignores mientras te insulto, maldito saco de mierda con más orejas que brazos!
 -¿Deberíamos decirle algo? -pregunta Sigmaril, conteniendo la risa.
 -Calla, calla, que esto es material de primera -responde Vi, congestionada.
--¡Elsa! -grita Midel, ante la decepción de Vi- ¡Ellos no te ven!
+-¡Elsa! -grita Midel, ante la decepción de Vi-. ¡Ellos no te ven!
 
 Elsa se gira, sobresaltada. Probablemente se ha percatado de que ha hecho el ridículo, porque se pone un poco roja, pero aun así acude corriendo hacia nosotros.
 
 -¡Chicos! Joder, no sabéis cuánto me alegro de veros. ¿Qué coño ha sido esta locura?
 -Parece que hemos invadido unos cuerpos extraños -resume Sigmaril, tosiendo para tratar de recuperar la compostura.
--¿Pero por qué? -pregunta Elsa- ¿Esto es cosa de tu ritual?
+-¿Pero por qué? -pregunta Elsa-. ¿Esto es cosa de tu ritual?
 -No, que yo sepa -responde él, encogiéndose de hombros. Y añade, dirigiéndose a mí-. ¿Tú sabes algo, Nídea?
 -Todo lo que sé es que lo que nos ha pasado se conoce como Viaje Astral.
 
@@ -284,7 +284,7 @@ Como era de esperar, no importa lo complicada que se ponga una situación, que s
 
 -Ahora no es momento de gili... -la riñe Midel, con cara de fastidio.
 -¿Cómo lo has hecho? -interrumpo, gritando.
--¡Por fin alguien se da cuenta! -contesta Elsa, sonriendo- No lo sé, solo me pasa con este árbol de aquí.
+-¡Por fin alguien se da cuenta! -contesta Elsa, sonriendo-. No lo sé, solo me pasa con este árbol de aquí.
 -¿De qué cojones estáis hablando? -pregunta Vi.
 -Parece que puede tocar ese árbol -responde Sigmaril, yendo hacia ella-, pese a no tener cuerpo físico.
 
@@ -303,7 +303,7 @@ Efectivamente, las cinco personas cuyos cuerpos hemos ocupado hace un rato han r
 -Míralo él, qué listillo. Espera, ¿te refieres al tronco del árbol?
 -Elsa, por lo más sagrado, no empieces -la corta Midel, tratando de contener una carcajada.
 -¡Eso, cállate, coño! -se suma Vi.
--¡Silencio! -grito, y obedecen al instante- Sigmaril, por favor.
+-¡Silencio! -grito, y obedecen al instante-. Sigmaril, por favor.
 
 Enseguida estamos los cinco de pie, tocando el gran árbol con nuestras manos. No entiendo exactamente qué estamos haciendo, pero confío en que Sigmaril tendrá una buena idea aunque, aparentemente, tan solo mantiene los ojos cerrados. Los segundos van pasando, y mi mirada se cruza varias veces con las de las chicas. Creo que ellas tampoco entienden nada, y Elsa hace un par de veces el gesto de abrir la boca. Midel la intercepta a tiempo la primera vez con un pisotón, y una mirada asesina mía la disuade del segundo intento. Durante un rato que se hace eterno, nadie dice nada y empiezo a sentirme ridícula.
 

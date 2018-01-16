@@ -38,10 +38,10 @@ Pese a su contundencia, parece evidente que ella también está deseando que su 
 -Vi -refunfuña Elsa, con una mueca forzada-, tu intento fallido de tocarme la moral ha sido debidamente anotado.
 -Hala, Midel, está insinuando que eres fea.
 -Mira cómo mete cizaña la muy cerda -replica de nuevo Elsa-. No le hagas ni caso, cielo, ya sabes que eres más bella que el Sol cuando sale por la mañana.
--¡Oh pero qué bonito! -responde Vi, con una sonrisa malévola- ¡Que se besen!
+-¡Oh pero qué bonito! -responde Vi, con una sonrisa malévola-. ¡Que se besen!
 -Elsa, por el amor de tus ancestros -comenta Midel, roja como un tomate-, ¿quieres dejar de hacer bromas con el tema? Al final se acabarán creyendo de verdad lo que no es.
 -Por mi no os cortéis -dice Sigmaril, carraspeando ligeramente.
--¿Y tú, Sigmaril? -se apresura a añadir Midel, en un claro intento de cambiar de tema- ¿En qué te gastarás el dinero?
+-¿Y tú, Sigmaril? -se apresura a añadir Midel, en un claro intento de cambiar de tema-. ¿En qué te gastarás el dinero?
 -El dinero no es del todo mío. Como clérigo de Corellon Larethian, mis ingresos van a parar a la Iglesia. El Templo, a cambio, me proporciona lo que necesito.
 -No parece mal negocio -interviene Elsa, asintiendo con la cabeza.
 -A mí me parece un poco injusto -confiesa Midel-. ¿Los clérigos de tu religión no podéis tener vuestro propio dinero?
@@ -51,7 +51,7 @@ Pese a su contundencia, parece evidente que ella también está deseando que su 
 -Mola -Vi parece fascinada cuando hablo de este tema-. ¿Qué tipo de material?
 -Sobre todo, pergaminos. Y, si no he calculado mal nuestras ganancias, también alguna poción.
 -Suena bien.
--Y ahora que lo pienso... -dice Midel, preocupada, girándose hacia Jack- ¿cómo te compensa a ti el Gremio por habernos ayudado?
+-Ahora que lo pienso -dice Midel, preocupada, girándose hacia Jack-, ¿cómo te compensa a ti el Gremio por habernos ayudado?
 -¿Ayudaros en qué, exactamente? -contesta Jack-. ¡Pero si yo solo miraba y me reía por dentro!
 -Podemos dar gracias de que no roncases mientras hacíamos guardia -le reprocha Elsa.
 -Bromas aparte -insiste él, riendo ante el comentario-, no os preocupéis por ello. Me llevo algo muy importante de esta aventura, y es algo que no se puede comprar ni con todo el oro del mundo.
@@ -76,7 +76,7 @@ Cuando finalmente llegamos al Gremio, los parroquianos se giran hacia nosotros y
 El Maestro hurga en los cajones de su escritorio, y puedo escuchar claramente un tintineo metálico. Después, pone encima de la mesa una bolsa de lona llena de monedas. Me sorprende la tranquilidad con la que acaba de extraer dos mil quinientas monedas de oro de un simple cajón de madera, y no puedo evitar preguntarme cuánto dinero debe de haber en ese mueble ahora mismo. Elsa se adelanta de un pequeño salto y levanta la bolsa, con dificultad.
 
 -Tomad, chicos, lo pactado. Dos mil quinientas monedas, en piezas de oro y platino.
--¡Platino! -dice Elsa, hurgando dentro de la bolsa- ¡Existen de verdad!
+-¡Platino! -dice Elsa, hurgando dentro de la bolsa-. ¡Existen de verdad!
 -Es cierto que no se ven muy a menudo -dice Vi-, pero yo he tenido varias en mis manos.
 -Y... ¿son de auténtico platino?
 -No, pardilla -replica Vi-. Ni tampoco las de oro, ni las de plata. Se fabrican con una aleación ligera de hierro, se acuñan en Garbantia y se pintan de colores para que sea más fácil diferenciarlas.
@@ -84,10 +84,10 @@ El Maestro hurga en los cajones de su escritorio, y puedo escuchar claramente un
 -Sí. La gente que viene de los países vecinos tiene que recurrir a los servicios de un cambista.
 -Caray, chica. Sabes mucho de estas cosas para ser tan jovencita.
 -¿Qué te pensabas? He trabajado seis años en una taberna...
--¿Seis años? -contesta Elsa, con una sonrisa burlona- Entonces desde los cuatro... impresionante.
+-¿Seis años? -contesta Elsa, con una sonrisa burlona-. Entonces desde los cuatro... impresionante.
 -Joder, Elsa, el día menos pensado te arranco la cabeza de una hos...
 -Chicas, por favor -las interrumpo, antes de que se animen demasiado-. Ya sé que estáis excitadas pero, ¿podéis comportaros por lo menos delante del Maestro?
--¡Por mí no os cortéis! -ríe el Maestro Jeeves, con una sonora carcajada- Además, me encanta que os llevéis tan bien entre vosotros.
+-¡Por mí no os cortéis! -ríe el Maestro Jeeves, con una sonora carcajada-. Además, me encanta que os llevéis tan bien entre vosotros.
 
 ¿Llevarse bien, estas dos? Aunque... pese a lo que nos contó Midel el primer día que nos juntamos, no las he visto pelearse nunca, por lo menos no físicamente. Es cierto que se insultan a menudo, pero siempre terminan bastante contentas. Puede que el sentido de humor de Vi se haya visto afectado por su trabajo como tabernera, y por ello tenga más carácter del que cabría esperarse de una chica de su edad. Porque, a menos que nos mintiera cuando dijo que empezó a trabajar a los diez, su última declaración confirma que tiene dieciséis años.
 
@@ -160,7 +160,7 @@ Mientras cuento las monedas de la última bolsa aparece Vi, con las bebidas, y e
 Por algún motivo, me esperaba una respuesta parecida...
 
 -Todavía tenemos pendiente ir a vender las armas que hemos recogido -recuerda Sigmaril, tras devolverme su bolsa vacía.
--Es cierto, ya ni me acordaba... -responde Midel- Todavía es temprano así que, ¿queréis ir ahora?
+-Es cierto, ya ni me acordaba... -responde Midel-. Todavía es temprano así que, ¿queréis ir ahora?
 -Sería buena idea -contesto, levantándome de la silla.
 -Dejad que me termine la cerveza por lo menos, hostia -se queja Vi.
 -Por supuesto -contesto, disculpándome con un gesto de la mano mientras me vuelvo a sentar-. Tampoco tenemos prisa.
@@ -176,7 +176,7 @@ Tras esperar pacientemente a que Sigmaril y Vi apuren su bebida, salimos del Gre
 
 Abrimos la puerta de la tienda, y una pequeña campana colocada cerca del linde tintinea para alertar al propietario. El establecimiento se reduce a una pequeña estancia en la que a duras penas cabemos los cinco y un mostrador, tras el cual hay una puerta entreabierta. Se puede escuchar un martilleo rítmico al otro lado, así que podemos suponer que conduce al taller del herrero. No se aprecia nada más a simple vista: no hay armas, ni siquiera una sola decoración. Cada vez estoy más convencida de que no hemos elegido bien el sitio.
 
--¿Oiga? -grita Vi, a pleno pulmón- ¿Hay alguien ahí?
+-¿Oiga? -grita Vi, a pleno pulmón-. ¿Hay alguien ahí?
 
 El martilleo cesa al momento, para convertirse en un sonido de pasos que se acercan. Finalmente, la puerta al otro lado del mostrador se abre completamente para revelar al propietario del negocio: un hombre muy alto y delgado, aunque musculoso, con hebras plateadas en el pelo y la barba. Como atuendo lleva únicamente un par de guantes, un grueso delantal y unos pantalones, y tiene la cara perlada de sudor.
 
@@ -199,7 +199,7 @@ Eso ha sido una auténtica sorpresa: cien piezas de oro me parece mucho dinero p
 
 ¿Qué demonios? Mil quinientas monedas es una exageración. El herrero pone cara de sorpresa, para a continuación estallar en carcajadas.
 
--Chiquilla, ¿qué dices? -contesta, tosiendo- ¿No hablas en serio, no?
+-Chiquilla, ¿qué dices? -contesta, tosiendo-. ¿No hablas en serio, no?
 -Hablo muy en serio.
 -Mi maestro, en paz descanse, solía decir que este negocio no es ni para niños ni para mujeres. Seguro que le habría encantado darte unos azotes.
 -Está bien -dice Vi, encogiéndose de hombros-, si no está dispuesto a comprárnoslas sin estafarnos, nos vamos a otra tienda. Seguro que en esta ciudad hay algún herrero honrado.
@@ -237,7 +237,7 @@ Mutilar, morir... este hombre habla de simples objetos como si fueran personas. 
 
 Y luego dicen que los magos somos extravagantes...
 
--¿Qué precio me propones? -prosigue Vi- Que sea justo para ambas partes.
+-¿Qué precio me propones? -prosigue Vi-. Que sea justo para ambas partes.
 -Mil de oro, un precio redondo. Por las cinco.
 -Trato hecho -replica Vi, con una sonrisa.
 
@@ -343,16 +343,16 @@ Me quedo boquiabierta. ¿Me está pidiendo lo que creo?
 
 -¿Quieres que te enseñe la teoría?
 -Sí. Creo que si puedo entender...
--¡Eso es descabellado! -la interrumpo, riendo nerviosamente- Créeme, Midel: los fundamentos de la magia arcana no son algo que se pueda entender en dos días.
+-¡Eso es descabellado! -la interrumpo, riendo nerviosamente-. Créeme, Midel: los fundamentos de la magia arcana no son algo que se pueda entender en dos días.
 -No te estoy pidiendo que me conviertas en una gran maestra de la noche a la mañana. Tan solo creo que, si entiendo un poco qué estoy haciendo, quizá pueda aprender a controlarlo por mí misma.
 -¡Eso es..!
 
 No termino la frase. Antes de completarla, "...una locura, Midel", me doy cuenta de que estoy equivocada. La miro a los ojos, y me doy cuenta de que ella se cree hasta la última palabra de lo que ha dicho. No está loca: tan solo está convencida de su propio potencial. Es igual que yo, exactamente igual que esa niña de quince años que desafiaba a los maestros porque creía que podía avanzar más deprisa. De algún modo, lo sé. Así que, aunque no sirviera de nada, aunque no consiguiera ni un solo resultado, sé que tengo que ayudarla en lo que pueda.
 
 -Está bien, lo haré. Vuelve mañana, a primera hora.
--¡Oh, gracias! -exclama, lanzándose encima de mí para darme un repentino abrazo. Me coge desprevenida y no puedo contener una sonrisa- Te prometo que no te decepcionaré.
+-¡Oh, gracias! -exclama, lanzándose encima de mí para darme un repentino abrazo. Me coge desprevenida y no puedo contener una sonrisa-. Te prometo que no te decepcionaré.
 -Te lo advierto, no será sencillo -le espeto, apartándola cuidadosamente-. Descansa todo lo que puedas esta noche.
--¡Lo haré! -responde, con una sonrisa de oreja a oreja, mientras se da la vuelta para salir a la calle- De nuevo, ¡muchas gracias!
+-¡Lo haré! -responde, con una sonrisa de oreja a oreja, mientras se da la vuelta para salir a la calle-. De nuevo, ¡muchas gracias!
 
 Midel sale de mi habitación, cerrando la puerta tras de sí. Solo puedo esperar que esto no sea baladí, porque lo que Jack le dijo a Midel era muy cierto: su habilidad latente encierra mucho potencial y, cuanto antes aprenda a explorarlo, mejor para todos. Incluso para mí...
 
@@ -516,7 +516,7 @@ Su respiración no se ha alterado lo más mínimo con esta alabanza. Apuesto a q
 -Ahora, trata de ampliar el radio. Trata de notar la magia a tu alrededor.
 -Yo no... no puedo -advierte, con la misma voz monótona.
 -Es un poco más difícil, pero lo puedes hacer. La tierra, Midel. La tierra se extiende bajo tus pies. Nótala.
--La tierra... -dice, tras un breve silencio- La noto, puedo verla rodeándome.
+-La tierra... -dice, tras un breve silencio-. La noto, puedo verla rodeándome.
 -Ahora el aire, y el fuego. ¿Los notas?
 -Sí... ya entiendo lo que quieres decir. También el agua, aunque... apenas hay agua a mi alrededor.
 -Lo estás haciendo perfectamente. Mantén la concentración.
@@ -601,7 +601,7 @@ Midel cierra los ojos y respira profundamente un par de veces. Lentamente empiez
 -Cálmate. Abre los ojos, Midel.
 -Vale... oh, la luz azul sigue ahí, alrededor de la taza.
 -No te pongas nerviosa y mantén la concentración. Este hechizo potencia la vista, y por eso eres capaz de ver el aura mágica de los objetos.
--La vista... -replica Midel, con voz monótona. Me asombra lo deprisa que ha recuperado la compostura- Pero lo he podido ver con los ojos cerrados.
+-La vista... -replica Midel, con voz monótona. Me asombra lo deprisa que ha recuperado la compostura-. Pero lo he podido ver con los ojos cerrados.
 -Eso es porque la potencia hasta tal punto que permite atravesar materia poco gruesa como, por ejemplo, los párpados. La ropa también es un buen ejemplo.
 -¿Por qué el aura es de color azul?
 -Porque se trata de un hechizo de la escuela de evocación.
